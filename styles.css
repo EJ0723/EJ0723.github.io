@@ -1,0 +1,151 @@
+body
+{
+	background-color: LemonChiffon;
+}
+
+h1 
+{
+	font-family: Courier New;
+	font-weight: normal;
+
+	background-color: LightGreen;
+	border-radius: 25px;
+	
+	width: 1000px;
+	height: 40px;
+
+	margin-left: 10px;
+	margin-top: 10px;
+
+	padding-left: 25px;
+	padding-top: 5px;
+
+	color: White;
+	text-align: left;
+}
+
+p
+{
+	font-family: Courier New;
+	font-weight: normal;
+	font-size: 1.75em;
+
+	border-radius: 25px;
+
+	margin-left: 10px;
+	line-height: 1.5;
+}
+
+/*Name*/
+p1
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: LightBlue;
+}
+
+p2
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: LightPink;
+}
+
+/*Nickname*/
+p3
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: LightBlue;
+}
+
+p4
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: Gold;
+}
+
+/*Favorite CMSC subject so far and why*/
+p5
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: LightBlue;
+}
+
+p6
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: MediumOrchid;
+}
+
+/*Favorite GE so far and why*/
+p7
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: LightBlue;
+}
+
+p8
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: MediumSeaGreen;
+}
+
+/*Favorite programming language so far and why*/
+p9
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: LightBlue;
+}
+
+p10
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: Khaki;
+}
+
+/*Favorite food*/
+p11
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: LightBlue;
+}
+
+p12
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: Chocolate;
+}
