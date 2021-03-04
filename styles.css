@@ -149,3 +149,40 @@ p12
 	border-radius: 25px;
 	background-color: Chocolate;
 }
+
+/*Hobbies*/
+p13
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: LightBlue;
+}
+
+p14
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: MediumSlateBlue;
+}
+
+/*What was your childhood dream?*/
+p15
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: LightBlue;
+}
+p16
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-radius: 25px;
+	background-color: DarkGoldenRod;
+}
